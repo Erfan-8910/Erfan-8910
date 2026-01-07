@@ -34,12 +34,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,chatgpt&theme=dark" />
   </p>
 
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-8910&layout=compact&theme=radical&hide_border=true&langs_count=4" height="150" alt="languages" />
-  </div>
-
-  <br/>
-
   <!-- Footer Decoration -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 
