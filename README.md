@@ -31,7 +31,7 @@
   <!-- Tech Stack -->
   <h3>🎨 Tools & Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,chatgpt,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,chatgpt&theme=dark" />
   </p>
 
   <br/>
