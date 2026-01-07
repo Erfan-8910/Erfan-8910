@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Erfan-8910/Erfan-8910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Header Design -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003399,100:245edb&height=220&section=header&text=Erfan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Creator%20|%20Retro%20Enthusiast&descAlignY=55&descSize=25" />
 
-Here are some ideas to get you started:
+  <!-- Animated Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FCA311&center=true&vCenter=true&width=435&lines=Building+Retro+Web+Experiences;Turning+Ideas+Into+Code+with+AI;Fan+of+Windows+XP+Aesthetics;Creative+Maker..." alt="Typing SVG" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/><br/>
+
+  <!-- Short Bio -->
+  <p style="font-size: 16px;">
+    👋 <b>Hello World!</b> <br>
+    I am a creative developer leveraging <b>Artificial Intelligence</b> to build interactive web experiences.<br>
+    My latest project involves bringing <b>Nostalgia</b> back to the web.
+  </p>
+
+  <br/>
+
+  <!-- Main Project Link (Windows XP) -->
+  <a href="https://Erfan-8910.github.io">
+    <img src="https://img.shields.io/badge/🖥️_Launch_Windows_XP_Simulation-Click_Here-003399?style=for-the-badge&logo=windows&logoColor=white&labelColor=black&color=0055ea" height="60" />
+  </a>
+  <br/>
+  <sub>👆 <i>Click the button above to start the OS!</i> 👆</sub>
+
+  <br/><br/><br/>
+
+  <!-- Tech Stack -->
+  <h3>🎨 Tools & Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,chatgpt,figma&theme=dark" />
+  </p>
+
+  <br/>
+
+  <!-- GitHub Statistics -->
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Erfan-8910&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs" height="150" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-8910&layout=compact&theme=radical&hide_border=true&langs_count=4" height="150" alt="languages" />
+  </div>
+
+  <br/>
+
+  <!-- Footer Decoration -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+
+</div>
