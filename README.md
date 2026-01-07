@@ -35,10 +35,6 @@
   </p>
 
   <br/>
-
-  <!-- GitHub Statistics -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Erfan-8910&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues,contribs" height="150" alt="stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-8910&layout=compact&theme=radical&hide_border=true&langs_count=4" height="150" alt="languages" />
   </div>
 
