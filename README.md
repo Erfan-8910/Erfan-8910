@@ -14,17 +14,17 @@
   <p style="font-size: 16px;">
     👋 <b>Hello World!</b> <br>
     I am a creative developer leveraging <b>Artificial Intelligence</b> to build interactive web experiences.<br>
-    My latest project involves bringing <b>Nostalgia</b> back to the web.
+    My latest project is <b>Climind</b>.
   </p>
 
   <br/>
 
   <!-- Main Project Link (Windows XP) -->
-  <a href="https://Erfan-8910.github.io">
+  <a href="https://Erfan-8910.github.io/Climind-W">
     <img src="https://img.shields.io/badge/🖥️_Launch_Windows_XP_Simulation-Click_Here-003399?style=for-the-badge&logo=windows&logoColor=white&labelColor=black&color=0055ea" height="60" />
   </a>
   <br/>
-  <sub>👆 <i>Click the button above to start the OS!</i> 👆</sub>
+  <sub>👆 <i>Click the button!</i> 👆</sub>
 
   <br/><br/><br/>
 
