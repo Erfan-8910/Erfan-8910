@@ -19,9 +19,9 @@
 
   <br/>
 
-  <!-- Main Project Link (Windows XP) -->
+  <!-- Main Project Link (Climind) -->
   <a href="https://Erfan-8910.github.io/Climind-W">
-    <img src="https://img.shields.io/badge/🖥️_Launch_Windows_XP_Simulation-Click_Here-003399?style=for-the-badge&logo=windows&logoColor=white&labelColor=black&color=0055ea" height="60" />
+    <img src="https://img.shields.io/badge/🖥️_Launch_Climind-003399?style=for-the-badge&logo=windows&logoColor=white&labelColor=black&color=0055ea" height="60" />
   </a>
   <br/>
   <sub>👆 <i>Click the button!</i> 👆</sub>
